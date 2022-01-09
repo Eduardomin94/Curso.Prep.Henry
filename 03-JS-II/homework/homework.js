@@ -51,7 +51,7 @@ function saludo(idioma) {
   }else if (idioma === ingles){
     return "Hello!"
   }else{
-    return "Hola!"
+    return "Holaa!"
   }
 }
 
